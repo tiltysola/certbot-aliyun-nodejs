@@ -1,0 +1,16 @@
+{
+  "name": "certbot-aliyun-nodejs",
+  "version": "1.0.0",
+  "author": "TiltySola",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@alicloud/alidns20150109": "^3.0.7",
+    "dayjs": "^1.11.8",
+    "dotenv": "^16.1.4",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0"
+  }
+}
